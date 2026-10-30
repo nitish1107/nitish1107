@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven Computer Science and Engineering student with expertise in C++, MySQL, Data analytics and machine learning. Developed practical projects in machine learning and applications, focusing on collaborative problem-solving and data-driven solutions for real-world challenges. 
+Driven Computer Science and Engineering graduate with expertise in C++, MySQL, Data analytics and machine learning. Developed practical projects in machine learning and applications, focusing on collaborative problem-solving and data-driven solutions for real-world challenges. 
 
 
 ## 🌐 Socials:
