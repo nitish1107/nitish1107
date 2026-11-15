@@ -23,7 +23,24 @@ Data Science and Machine Learning enthusiast with hands-on experience building L
 - Analyzes facial features such as eye closure and head movement through live video to detect fatigue and trigger timely alerts, aiming to improve road safety.
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Programming**<br/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science**<br/>
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-130654?style=for-the-badge&logo=pandas&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+**Data Visualization**<br/>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Machine Learning & AI**<br/>
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Similarity Learning](https://img.shields.io/badge/Similarity_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Libraries & Frameworks**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools**<br/>
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 # 📜 Certifications:
 - Python for Data Science, AI, and Development (Coursera)
