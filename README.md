@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nitish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20LLMs&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nitish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning&descAlignY=60)
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Nitish+%F0%9F%91%8B;Building+LLM-powered+conversational+agents;Turning+raw+data+into+ML-ready+pipelines;Solving+real-world+problems+with+data+and+AI)](https://github.com/nitish1107)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Nitish+%F0%9F%91%8B;Exploring+data+and+building+ML+solutions;Turning+raw+data+into+ML-ready+pipelines;Solving+real-world+problems+with+data+and+AI)](https://github.com/nitish1107)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-77575624b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adinit121@gmail.com)
@@ -14,13 +14,13 @@
 
 ## 💫 About Me
 
-Data Science and Machine Learning enthusiast with hands-on experience building LLM-powered conversational agents across 10+ knowledge domains. Skilled in Python, SQL, Power BI and Tableau, with experience turning 30K+ records into ML-ready pipelines. Passionate about solving real-world problems with data and AI, from app market analytics to driver safety.
+Data Science and Machine Learning enthusiast with hands-on experience in data preprocessing, feature engineering and exploratory data analysis. Skilled in Python, SQL, Power BI and Tableau, with experience turning 30K+ records into ML-ready pipelines. Passionate about solving real-world problems with data and AI, from app market analytics to driver safety.
 
 ```python
 class Nitish:
     location  = "Bengaluru, India"
     education = "B.E. in Computer Science and Engineering, Chandigarh University"
-    focus     = ["Data Science", "Machine Learning", "LLM Agents"]
+    focus     = ["Data Science", "Machine Learning"]
 ```
 
 ## 💼 Experience
@@ -28,8 +28,6 @@ class Nitish:
 **Data Science Intern · Celebal Technologies, Noida** *(Jun 2025 – Aug 2025)*
 
 - 🧹 Performed data preprocessing, feature engineering and EDA on datasets with 30K+ records to prepare machine learning pipelines.
-- 🔌 Integrated APIs and LLM services to create conversational workflows, streamlining query handling and enhancing user experience.
-- 🤖 Developed LLM-based conversational agents using OpenAI APIs and NLP pipelines, supporting automated responses across 10+ knowledge domains.
 
 ## 🚀 Projects
 
@@ -62,7 +60,7 @@ class Nitish:
 
 **Visualization:** `Power BI` `Tableau`
 
-**ML & AI:** `Prompt Engineering` `Embeddings` `Similarity Learning` `HuggingFace Transformers` `Scikit-learn`
+**Machine Learning:** `Embeddings` `Similarity Learning` `HuggingFace Transformers` `Scikit-learn`
 
 **Languages:** `Python` `SQL`
 
