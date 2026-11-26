@@ -1,65 +1,104 @@
-# 💫 About Me:
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nitish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20LLMs&descAlignY=60)
+
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Nitish+%F0%9F%91%8B;Building+LLM-powered+conversational+agents;Turning+raw+data+into+ML-ready+pipelines;Solving+real-world+problems+with+data+and+AI)](https://github.com/nitish1107)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-77575624b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adinit121@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=nitish1107&style=for-the-badge&color=00D9FF)
+
+</div>
+
+---
+
+## 💫 About Me
+
 Data Science and Machine Learning enthusiast with hands-on experience building LLM-powered conversational agents across 10+ knowledge domains. Skilled in Python, SQL, Power BI and Tableau, with experience turning 30K+ records into ML-ready pipelines. Passionate about solving real-world problems with data and AI, from app market analytics to driver safety.
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.E. in Computer Science and Engineering, Chandigarh University
+```python
+class Nitish:
+    location  = "Bengaluru, India"
+    education = "B.E. in Computer Science and Engineering, Chandigarh University"
+    focus     = ["Data Science", "Machine Learning", "LLM Agents"]
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-77575624b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adinit121@gmail.com)
+## 💼 Experience
 
-# 💼 Experience:
-**Data Science Intern, Celebal Technologies, Noida** *(Jun 2025 – Aug 2025)*
-- Performed data preprocessing, feature engineering and EDA on datasets with 30K+ records to prepare machine learning pipelines.
-- Integrated APIs and LLM services to create conversational workflows, streamlining query handling and enhancing user experience.
-- Developed LLM-based conversational agents using OpenAI APIs and NLP pipelines, supporting automated responses across 10+ knowledge domains.
+**Data Science Intern · Celebal Technologies, Noida** *(Jun 2025 – Aug 2025)*
 
-# 🚀 Projects:
-**Profitable App Profile Analysis** *(Jan 2026)*
+- 🧹 Performed data preprocessing, feature engineering and EDA on datasets with 30K+ records to prepare machine learning pipelines.
+- 🔌 Integrated APIs and LLM services to create conversational workflows, streamlining query handling and enhancing user experience.
+- 🤖 Developed LLM-based conversational agents using OpenAI APIs and NLP pipelines, supporting automated responses across 10+ knowledge domains.
+
+## 🚀 Projects
+
+<details open>
+<summary><b>📱 Profitable App Profile Analysis</b> (Jan 2026)</summary>
+
 - Analyzed 5,000+ mobile app records to identify profitable categories and market trends using Python and SQL.
 - Created 10+ analytical visualizations uncovering user engagement and revenue patterns across app segments.
 - Optimized SQL queries, reducing data processing time by 30%.
 
-**Drowsiness Detection for Drivers** *(Jul 2025)*
+</details>
+
+<details open>
+<summary><b>🚗 Drowsiness Detection for Drivers</b> (Jul 2025)</summary>
+
 - Built a real-time driver drowsiness detection system using computer vision and machine learning.
 - Analyzes facial features such as eye closure and head movement through live video to detect fatigue and trigger timely alerts, aiming to improve road safety.
 
-# 💻 Tech Stack:
+</details>
 
-**Programming**<br/>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 💻 Tech Stack
 
-**Data Science**<br/>
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-130654?style=for-the-badge&logo=pandas&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+<div align="center">
 
-**Data Visualization**<br/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Core tools](https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn,github)
 
-**Machine Learning & AI**<br/>
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Similarity Learning](https://img.shields.io/badge/Similarity_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+</div>
 
-**Libraries & Frameworks**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Data Science:** `Data Analysis` `Data Cleaning` `Feature Engineering` `EDA` `Statistical Analysis` `NumPy` `Pandas` `Matplotlib`
 
-**Tools**<br/>
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+**Visualization:** `Power BI` `Tableau`
 
-# 📜 Certifications:
+**ML & AI:** `Prompt Engineering` `Embeddings` `Similarity Learning` `HuggingFace Transformers` `Scikit-learn`
+
+**Languages:** `Python` `SQL`
+
+## 📜 Certifications
+
 - Python for Data Science, AI, and Development (Coursera)
 - Introduction to Machine Learning (IITKGP, NPTEL)
 - Databases and SQL for Data Science with Python (IBM, Coursera)
 - Python for Data Science & AI: Hands-On Development (IBM, Coursera)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nitish1107&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nitish1107&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitish1107&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+![Stats](https://github-readme-stats.shion.dev/api?username=nitish1107&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Streak](https://streak-stats.demolab.com/?user=nitish1107&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nitish1107&theme=tokyonight&hide_border=true&layout=compact)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitish1107&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nitish1107&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=nitish1107&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top contributed](https://github-contributor-stats.vercel.app/api?username=nitish1107&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitish1107/nitish1107/output/snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nitish1107/nitish1107/output/snake.svg">
+</picture>
+
+### ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+
+</div>
